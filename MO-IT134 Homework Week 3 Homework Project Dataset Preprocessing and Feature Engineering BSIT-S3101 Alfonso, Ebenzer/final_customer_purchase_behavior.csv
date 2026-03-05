@@ -1,0 +1,101 @@
+Company_ID,Company_Name,Company_Profit,Address,City,Recency,Frequency,Monetary,Avg_Quantity,Is_High_Value,Profit_per_Monetary
+1,Tech Enterprises 1,80701.0,"EDSA, Barangay 606, Pasig, Philippines",Pasig,51,57,79602668.90215,9.278688524590164,0,0.0010137976540133653
+2,Global Partners 2,80511.0,"Commonwealth Ave, Barangay 789, Taguig, Philippines",Taguig,67,70,104011480.2463,8.48,0,0.0007740587773127596
+3,Quantum Associates 3,110664.0,"Roxas Blvd, Barangay 505, Pasig, Philippines",Pasig,7,70,101422889.80874,9.064102564102564,0,0.0010911146302138694
+4,Prime Network 4,75301.5,"Alabang-Zapote Rd, Barangay 202, Taguig, Philippines",Taguig,92,82,118782538.1164,9.238095238095237,0,0.0006339441854009275
+5,Elite Ventures 5,69427.0,"Ayala Avenue, Barangay 101, Makati, Philippines",Makati,47,67,106361167.06054,8.9625,0,0.0006527476264691137
+6,Elite Network 6,36967.0,"Katipunan Ave, Barangay 707, Davao City, Philippines",Davao City,50,84,122895717.31471,9.366666666666667,0,0.00030079973905466185
+7,Dynamic Solutions 7,36661.0,"Commonwealth Ave, Barangay 303, Pasig, Philippines",Pasig,47,66,110854657.3761,9.337662337662337,0,0.000330712308684576
+8,Green Enterprises 8,107952.0,"Roxas blvd, barangay 404, manila, philippines",Manila,65,76,125744338.23324,10.522727272727273,1,0.000858503855189557
+9,Global Enterprises 9,96046.0,"Slex, barangay 123, pasig, philippines",Pasig,31,76,120107586.843,9.976470588235294,0,0.0007996663801586593
+10,Pioneer Network 10,65200.0,"Katipunan Ave, Barangay 101, Mandaluyong, Philippines",Mandaluyong,68,78,113727108.64835,9.420454545454545,0,0.0005733021809980199
+11,Dynamic Ventures 11,97442.0,"Ortigas Ave, Barangay 202, Quezon City, Philippines",Quezon City,97,66,107076375.2581,10.083333333333334,0,0.0009100233254543745
+12,Quantum Network 12,91671.0,"Katipunan Ave, Barangay 123, Mandaluyong, Philippines",Mandaluyong,56,77,119464191.25999,9.882352941176471,0,0.0007673512729278438
+13,Quantum Enterprises 13,88168.0,"Taft Ave, Barangay 606, Makati, Philippines!",Makati,108,83,134536713.10674,10.129032258064516,1,0.0006553452757144674
+14,Quantum Holdings 14,78322.0,"Roxas Blvd, Barangay 101, Parañaque, Philippines",Parañaque,40,77,116305066.0773,9.240963855421686,0,0.0006734186391719695
+15,Innovative Enterprises 15,111984.0,"Roxas Blvd, Barangay 456, Taguig, Philippines",Taguig,58,71,100309034.9115,9.58108108108108,0,0.0011163899541293619
+16,Green Corp 16,67696.0,"Shaw Blvd, Barangay 707, Taguig, Philippines!",Taguig,44,72,103951276.0173,9.473684210526315,0,0.0006512281709510288
+17,Dynamic Solutions 17,100246.0,"Ayala avenue, brgy. 404, baguio, philippines",Baguio,48,82,136242559.58666,10.279569892473118,1,0.0007357906337662847
+18,Sky Network 18,68892.0,"Katipunan Ave, Barangay 707, Cebu City, Philippines",Cebu City,39,79,112164312.54710001,10.107142857142858,0,0.0006142060502253321
+19,Innovative Consulting 19,45583.0,"Ayala Avenue, Brgy. 101, Baguio, Philippines",Baguio,6,66,105092499.85464,9.680555555555555,0,0.0004337417002098817
+20,Pioneer Consulting 20,112720.0,"Ortigas ave, barangay 789, parañaque, philippines",Parañaque,49,83,125477062.26721,9.456521739130435,1,0.0008983315122697511
+21,Dynamic Enterprises 21,75301.5,"Ortigas Ave, Barangay 707, Davao City, Philippines",Davao City,62,77,137634911.37052,9.689655172413794,1,0.0005471104584081445
+22,Sky Ent.s 22,54853.0,"SLEX, Barangay 202, Pasig, Philippines",Pasig,52,68,95318378.40013,9.311688311688311,0,0.0005754713870001569
+23,Prime Corp 23,75301.5,"Slex, barangay 505, manila, philippines",Manila,53,71,117040601.3484,9.560975609756097,0,0.0006433792930751216
+24,Tech Solutions 24,89757.0,"Alabang-Zapote Rd, Barangay 456, Mandaluyong, Philippines",Mandaluyong,33,74,130134736.23822,10.349397590361447,1,0.0006897236042033422
+25,Green Holdings 25,36659.0,"Ortigas Ave, Barangay 606, Pasig, Philippines",Pasig,10,76,105782699.42651,9.24390243902439,0,0.00034655004884724
+26,Tech Associates 26,31238.0,"Taft ave, brgy. 456, manila, philippines",Manila,46,65,118914517.7904,9.06578947368421,0,0.00026269290173944556
+27,Elite Corp 27,45064.0,"SLEX, Brgy. 606, Pasig, Philippines",Pasig,45,82,124813374.00772,9.056818181818182,0,0.00036105104919414836
+28,Global Holdings 28,61115.0,"Katipunan Ave, Brgy. 303, Taguig, Philippines",Taguig,48,57,103960150.1841,10.597014925373134,0,0.0005878694798334145
+29,Sky Industries 29,61952.0,"Edsa, brgy. 606, makati, philippines!",Makati,35,58,101532802.797,10.134328358208956,0,0.0006101673319675477
+30,Quantum Holdings 30,35620.0,"EDSA, Barangay 789, Pasig, Philippines",Pasig,58,68,114424046.71755,10.216216216216216,0,0.00031129819920307466
+31,Sky Consulting 31,74258.0,"Ayala Avenue, Barangay 456, Mandaluyong, Philippines",Mandaluyong,48,63,95273687.541,9.347222222222221,0,0.000779417708468838
+32,Prime Consulting 32,34470.0,"Roxas blvd, barangay 505, quezon city, philippines",Quezon City,87,73,110518749.8822,9.419753086419753,0,0.000311892775885071
+33,Green Consulting 33,52003.0,"Shaw blvd, barangay 707, mandaluyong, philippines!",Mandaluyong,45,72,109617529.7821,9.708860759493671,0,0.0004744040449458092
+34,Pioneer Corp 34,57571.0,"Ortigas ave, barangay 707, makati, philippines",Makati,64,82,129168652.814,9.35483870967742,1,0.00044570411086656495
+35,Tech Network 35,54668.0,"Roxas Blvd, Brgy. 123, Davao City, Philippines",Davao City,3,64,110592672.80556001,10.131578947368421,0,0.000494318458165821
+36,Pioneer Network 36,107259.0,"Taft Ave, Barangay 123, Pasig, Philippines",Pasig,96,69,105021345.84378,9.093333333333334,0,0.0010213066507283374
+37,Prime Holdings 37,62046.0,"Katipunan Ave, Barangay 456, Mandaluyong, Philippines",Mandaluyong,31,73,121582063.00374,9.183908045977011,0,0.000510321983003113
+38,Sky Network 38,100977.0,"Commonwealth Ave, Barangay 202, Makati, Philippines",Makati,44,80,103872983.08237,7.752808988764045,0,0.0009721199491094477
+39,Prime Consulting 39,107255.0,"Ortigas Ave, Barangay 606, Davao City, Philippines",Davao City,1,78,124639097.4949,9.166666666666666,0,0.0008605245167461531
+40,Innovative Holdings 40,35397.0,"Slex, brgy. 202, manila, philippines",Manila,34,77,113509821.35872,9.226190476190476,0,0.0003118408545133341
+41,Sky Partners 41,75301.5,"Ayala Avenue, Barangay 404, Pasig, Philippines",Pasig,63,67,107761062.31087,10.054054054054054,0,0.0006987820803398126
+42,Sky Holdings 42,52233.0,"Ayala Avenue, Brgy. 101, Baguio, Philippines",Baguio,44,69,103653550.16878,9.025641025641026,0,0.0005039190593185615
+43,Quantum Network 43,113336.0,"Ortigas Ave, Barangay 404, Cebu City, Philippines",Cebu City,50,64,95739140.65878,9.845070422535212,0,0.001183800042869992
+44,Tech Solutions 44,75301.5,"Ortigas ave, barangay 202, cebu city, philippines",Cebu City,50,64,112469570.87378,10.594594594594595,0,0.0006695277553337519
+45,Prime Industries 45,99726.0,"Roxas Blvd, Barangay 404, Mandaluyong, Philippines",Mandaluyong,88,65,88632422.66692,8.246575342465754,0,0.0011251638607420865
+46,Dynamic Ventures 46,93219.0,"SLEX, Barangay 789, Pasig, Philippines!",Pasig,46,72,116937876.46364,9.625,0,0.0007971668549310294
+47,Green Industries 47,31130.0,"Taft Ave, Barangay 707, Mandaluyong, Philippines",Mandaluyong,34,48,63749844.674,9.074074074074074,0,0.0004883149076029243
+48,Global Corp 48,75301.5,"Katipunan ave, barangay 101, cebu city, philippines",Cebu City,37,78,126729914.82976,9.761363636363637,1,0.0005941888267420196
+49,Tech Holdings 49,115517.0,"Edsa, barangay 303, quezon city, philippines",Quezon City,48,95,159134325.07693,9.752380952380953,1,0.0007259087517306345
+50,Sky Associates 50,32118.0,"Alabang-Zapote Rd, Brgy. 303, Baguio, Philippines",Baguio,52,64,111681188.13134,10.36111111111111,0,0.00028758647942249605
+51,Global Holdings 51,30663.0,"Taft Ave, Barangay 456, Cebu City, Philippines",Cebu City,7,76,116038222.7151,9.784810126582279,0,0.0002642491329002465
+52,Innovative Industries 52,92408.0,"Roxas Blvd, Brgy. 303, Quezon City, Philippines",Quezon City,63,72,103446592.26251,9.512820512820513,0,0.0008932918628407796
+53,Global Partners 53,75301.5,"Taft Ave, Barangay 123, Manila, Philippines!",Manila,49,66,112394359.47351,9.746478873239436,0,0.0006699757859981566
+54,Innovative Network 54,111271.0,"Ortigas Ave, Barangay 202, Quezon City, Philippines",Quezon City,101,55,88207492.03474,8.396825396825397,0,0.0012614687955838013
+55,Innovative Holdings 55,49158.0,"Slex, barangay 404, taguig, philippines",Taguig,44,70,98320526.6675,8.592105263157896,0,0.0004999769749633804
+56,Pioneer Ent.s 56,61087.0,"EDSA, Barangay 404, Taguig, Philippines",Taguig,50,71,103318638.3202,8.220779220779221,0,0.0005912485917539254
+57,Pioneer Corp 57,118114.0,"Katipunan ave, barangay 456, parañaque, philippines",Parañaque,57,68,94792217.5993,8.783783783783784,0,0.001246030547077756
+58,Tech Ventures 58,83121.0,"Roxas Blvd, Brgy. 505, Pasig, Philippines",Pasig,61,53,90337639.6834,9.35820895522388,0,0.0009201147978981246
+59,Elite Associates 59,49874.0,"EDSA, Barangay 404, Davao City, Philippines",Davao City,59,62,102247260.16703,9.10958904109589,0,0.000487778346634893
+60,Global Ventures 60,113443.0,"Katipunan ave, barangay 101, parañaque, philippines",Parañaque,72,68,93631495.88838,9.76056338028169,0,0.0012115901568383308
+61,Global Solutions 61,70821.0,"Shaw Blvd, Barangay 505, Pasig, Philippines",Pasig,72,69,110146804.5501,8.6875,0,0.0006429691687044637
+62,Quantum Solutions 62,90582.0,"Shaw Blvd, Barangay 707, Baguio, Philippines!",Baguio,48,70,126059239.69094,10.135802469135802,1,0.0007185669174549472
+63,Tech Corp 63,52787.0,"Alabang-zapote rd, barangay 606, pasig, philippines",Pasig,126,66,96996142.37815,9.643835616438356,0,0.0005442175138263399
+64,Sky Consulting 64,94703.0,"Ortigas Ave, Barangay 202, Mandaluyong, Philippines",Mandaluyong,71,78,127299985.90799999,9.453488372093023,1,0.0007439356617408145
+65,Tech Associates 65,51705.0,"Ortigas ave, barangay 404, parañaque, philippines",Parañaque,47,76,133531923.3273,10.081395348837209,1,0.0003872107757038378
+66,Sky Ent.s 66,99381.0,"SLEX, Barangay 202, Parañaque, Philippines",Parañaque,45,86,147196976.76204,10.06,1,0.0006751565250249923
+67,Quantum Associates 67,74653.0,"Shaw Blvd, Barangay 202, Manila, Philippines",Manila,33,96,153249598.55876,9.675675675675675,1,0.0004871334099073848
+68,Innovative Solutions 68,112018.0,"Katipunan ave, barangay 101, taguig, philippines",Taguig,44,78,129907247.62526,10.465909090909092,1,0.000862292144475597
+69,Global Solutions 69,116217.0,"Ayala Avenue, Barangay 505, Quezon City, Philippines",Quezon City,40,75,123636749.17601,10.056818181818182,0,0.0009399875023773498
+70,Prime Network 70,62252.0,"Alabang-Zapote Rd, Barangay 456, Baguio, Philippines",Baguio,65,77,120016791.20884,9.345238095238095,0,0.0005186940831719276
+71,Prime Associates 71,103332.0,"EDSA, Brgy. 303, Parañaque, Philippines",Parañaque,31,72,108823301.61636,10.116883116883116,0,0.0009495392761997056
+72,Global Corp 72,102799.0,"EDSA, Barangay 303, Cebu City, Philippines",Cebu City,69,68,118364669.5446,9.68421052631579,0,0.0008684939477887971
+73,Dynamic Ventures 73,92185.0,"Alabang-Zapote Rd, Barangay 707, Cebu City, Philippines",Cebu City,52,70,98233471.0929,8.2375,0,0.0009384275851801317
+74,Quantum Solutions 74,75301.5,"Commonwealth ave, barangay 404, davao city, philippines",Davao City,60,65,97307156.56923,10.652173913043478,0,0.000773853659700481
+75,Green Industries 75,71538.0,"Commonwealth ave, barangay 123, parañaque, philippines",Parañaque,34,70,127841344.9813,9.407407407407407,1,0.0005595842209801532
+76,Tech Ventures 76,75301.5,"Commonwealth Ave, Barangay 202, Cebu City, Philippines",Cebu City,57,80,139838385.55499,10.298850574712644,1,0.000538489479570679
+77,Prime Consulting 77,110398.0,"Alabang-Zapote Rd, Barangay 456, Manila, Philippines",Manila,33,72,110892023.4118,8.444444444444445,0,0.0009955449960047133
+78,Innovative Partners 78,71232.0,"Roxas Blvd, Barangay 123, Pasig, Philippines",Pasig,81,88,134214614.56402001,9.51578947368421,1,0.0005307320644674687
+79,Sky Ventures 79,83106.0,"Alabang-Zapote Rd, Barangay 505, Parañaque, Philippines",Parañaque,65,78,108776007.95931,9.463414634146341,0,0.0007640103805526418
+80,Green Partners 80,111227.0,"Commonwealth Ave, Barangay 202, Manila, Philippines",Manila,54,83,138594063.60202,10.255555555555556,1,0.0008025379753411091
+81,Elite Enterprises 81,83079.0,"Katipunan Ave, Barangay 303, Taguig, Philippines",Taguig,70,84,119244122.25873,9.423913043478262,0,0.0006967135799199035
+82,Prime Industries 82,55028.0,"Commonwealth Ave, Barangay 707, Pasig, Philippines",Pasig,67,64,108550978.913,10.26923076923077,0,0.0005069323192117023
+83,Tech Enterprises 83,72135.0,"Ayala Avenue, Brgy. 707, Baguio, Philippines",Baguio,63,82,130312148.77829,10.081395348837209,1,0.0005535554445439567
+84,Green Solutions 84,75301.5,"SLEX, Barangay 456, Taguig, Philippines",Taguig,5,78,125167492.64812,10.488095238095237,1,0.000601605878693178
+85,Green Ventures 85,113470.0,"EDSA, Barangay 707, Cebu City, Philippines",Cebu City,78,82,115969278.63422,8.80232558139535,0,0.0009784487784859663
+86,Pioneer Solutions 86,50910.0,"Alabang-Zapote Rd, Barangay 789, Baguio, Philippines",Baguio,74,85,125028601.19263,9.377777777777778,1,0.00040718682851115625
+87,Tech Ventures 87,37141.0,"Alabang-Zapote Rd, Barangay 505, Quezon City, Philippines",Quezon City,49,76,116320553.31796,9.964285714285714,0,0.00031929868472321577
+88,Elite Consulting 88,75950.0,"EDSA, Barangay 456, Taguig, Philippines",Taguig,44,70,109648728.26929,10.391891891891891,0,0.000692666486024401
+89,Global Solutions 89,75301.5,"Ayala avenue, barangay 101, taguig, philippines",Taguig,59,83,134064240.06411,10.022222222222222,1,0.00056168221594594
+90,Prime Holdings 90,46225.0,"EDSA, Barangay 202, Parañaque, Philippines",Parañaque,36,80,120431994.62268,9.043956043956044,0,0.0003838265716763961
+91,Tech Industries 91,117123.0,"Katipunan Ave, Barangay 123, Mandaluyong, Philippines",Mandaluyong,77,88,140400420.44316,9.704081632653061,1,0.0008342068976439386
+92,Innovative Corp 92,62959.0,"Taft ave, barangay 202, baguio, philippines",Baguio,80,79,118783154.1628,9.325842696629213,0,0.0005300330666727165
+93,Innovative Holdings 93,79192.0,"EDSA, Barangay 789, Davao City, Philippines",Davao City,10,77,129309497.1086,10.406976744186046,1,0.0006124221434491297
+94,Pioneer Associates 94,109711.0,"Commonwealth Ave, Brgy. 202, Cebu City, Philippines!",Cebu City,49,66,120385452.09393,10.417721518987342,0,0.0009113310385964878
+95,Green Network 95,40051.0,"Alabang-Zapote Rd, Barangay 789, Pasig, Philippines",Pasig,45,59,85803330.98839,8.681818181818182,0,0.00046677674481708097
+96,Dynamic Network 96,101428.0,"Alabang-Zapote Rd, Brgy. 456, Cebu City, Philippines",Cebu City,52,74,105751119.53685,9.10126582278481,0,0.0009591198607172812
+97,Quantum Holdings 97,33449.0,"EDSA, Barangay 789, Manila, Philippines",Manila,52,69,107852527.27998,10.289473684210526,0,0.0003101364477350776
+98,Pioneer Ventures 98,71095.0,"Roxas Blvd, Barangay 123, Taguig, Philippines",Taguig,63,72,109674432.85966,9.439024390243903,0,0.0006482367630998994
+99,Elite Corp 99,107929.0,"Alabang-Zapote Rd, Barangay 303, Makati, Philippines",Makati,3,65,88968051.9712,9.485714285714286,0,0.0012131208495136773
+100,Global Solutions 100,75301.5,"Ayala avenue, barangay 456, taguig, philippines",Taguig,56,71,106138310.39144,9.653333333333334,0,0.0007094657811380352
